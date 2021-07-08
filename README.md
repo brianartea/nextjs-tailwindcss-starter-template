@@ -6,7 +6,7 @@ Steps to use
 
 ### If you have git installed
 
-- git clone https://github.com/avneesh0612/Nextjs-tailwind-starter-template
+- git clone https://github.com/brianartea/nextjs-tailwindcss-starter-template
 
 - cd into the app
 
@@ -26,7 +26,7 @@ and if you use npm delete yarn.lock and run
 npm install
 ```
 
-### If you don't have git installed
+### If you don't have git installed or do not like using git clone
 
 - Click on download zip
 
