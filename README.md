@@ -11,7 +11,7 @@ Steps to use
 - cd into the app
 
 ```bash
-cd Nextjs-tailwind-starter-template
+cd nextjs-tailwindcss-starter-template
 ```
 
 - If you use yarn then run
