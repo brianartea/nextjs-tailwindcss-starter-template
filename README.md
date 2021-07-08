@@ -1,4 +1,4 @@
-# Nextjs tailwind starter template
+# NextJS TailwindCSS starter template
 
 This is a starter template which provides you a Next app with tailwind CSS already set up.
 
