@@ -50,4 +50,4 @@ and if you use npm delete yarn.lock and run
 npm install
 ```
 
-You are ready to go 🥳
+You are ready to go!
